@@ -1,7 +1,7 @@
-# Okayziemaaa.github.io
 Thank you for wanting to donate and here are some ways you can do that.
 
 {:toc}
+
 # Crypto
 ## Monero (XMR)
 This is the best way to support me and you can send any amount with low fees.
