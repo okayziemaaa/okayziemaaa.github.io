@@ -1,7 +1,5 @@
 Thank you for wanting to donate and here are some ways you can do that.
 
-{:toc}
-
 # Crypto
 ## Monero (XMR)
 This is the best way to support me and you can send any amount with low fees.
@@ -12,9 +10,9 @@ This is the best way to support me and you can send any amount with low fees.
 
 ## Bitcoin (BTC)
 #### Wallet Address
-bc1qssver8auh3pehkhahty249d6fn6mm6chnlh9ry
+bc1q5m8uwvpzcs3y3qrljud0eneqDasrtgexd7xynu
 #### QR Code
-![QR Code](https://i.ibb.co/L0whHs7/btc.png)
+![QR Code](https://i.ibb.co/QY6WhNm/btc.png) 
 
 ## Dash 
 #### Wallet Address
